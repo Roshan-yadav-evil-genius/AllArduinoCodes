@@ -1,0 +1,115 @@
+#line 1 "c:\\Users\\Roshan Yadav\\Documents\\Arduino\\Testing_Play_Ground\\Amazon_phone.json"
+[
+  {
+    "id": 0,
+    "img": "https://m.media-amazon.com/images/I/919IyPIfczL._AC_UY218_.jpg",
+    "name": "Redmi 9 Activ (Metallic Purple, 4GB RAM, 64GB Storage) | Octa-core Helio G35 | 5000 mAh Battery",
+    "rating": "4.2 out of 5 stars",
+    "price": "8,099"
+  },
+  {
+    "id": 1,
+    "img": "https://m.media-amazon.com/images/I/81p+EkIvUUL._AC_UY218_.jpg",
+    "name": "Redmi 9A Sport (Metallic Blue, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+    "rating": "4.2 out of 5 stars",
+    "price": "6,999"
+  },
+  {
+    "id": 2,
+    "img": "https://m.media-amazon.com/images/I/810KHyQ4WcL._AC_UY218_.jpg",
+    "name": "Redmi 9A Sport (Coral Green, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+    "rating": "4.2 out of 5 stars",
+    "price": "6,999"
+  },
+  {
+    "id": 3,
+    "img": "https://m.media-amazon.com/images/I/51GSe9rxsoL._AC_UY218_.jpg",
+    "name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio | Charcoal",
+    "rating": "4.1 out of 5 stars",
+    "price": "1,299"
+  },
+  {
+    "id": 4,
+    "img": "https://m.media-amazon.com/images/I/81HJ4pkOsiL._AC_UY218_.jpg",
+    "name": "realme narzo 50i (Carbon Black, 4GB RAM+64GB Storage) - 6.5\" inch Large Display | 5000mAh Battery",
+    "rating": "4.0 out of 5 stars",
+    "price": "8,499"
+  },
+  {
+    "id": 5,
+    "img": "https://m.media-amazon.com/images/I/817clKAKcqL._AC_UY218_.jpg",
+    "name": "Redmi 10 Prime (Phantom Black 4GB RAM 64GB | Helio G88 with extendable RAM Upto 2GB | FHD+ 90Hz Adaptive Sync Display)",
+    "rating": "4.1 out of 5 stars",
+    "price": "10,999"
+  },
+  {
+    "id": 6,
+    "img": "https://m.media-amazon.com/images/I/71yTvU9VgdL._AC_UY218_.jpg",
+    "name": "Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm\u00ae Snapdragon\u2122 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!",
+    "rating": "4.1 out of 5 stars",
+    "price": "13,999"
+  },
+  {
+    "id": 7,
+    "img": "https://m.media-amazon.com/images/I/81g0X076+WL._AC_UY218_.jpg",
+    "name": "realme narzo 50A Prime (Flash Blue, 4GB RAM+64GB Storage) FHD+ Display | 50MP AI Triple Camera (No Charger Variant)",
+    "rating": "4.1 out of 5 stars",
+    "price": "11,499"
+  },
+  {
+    "id": 8,
+    "img": "https://m.media-amazon.com/images/I/911TJ1CDbLL._AC_UY218_.jpg",
+    "name": "Redmi 9 Activ (Carbon Black, 4GB RAM, 64GB Storage) | Octa-core Helio G35 | 5000 mAh Battery",
+    "rating": "4.2 out of 5 stars",
+    "price": "8,099"
+  },
+  {
+    "id": 9,
+    "img": "https://m.media-amazon.com/images/I/717DeSsnXpL._AC_UY218_.jpg",
+    "name": "Redmi Note 11 Pro (Stealth Black, 6GB RAM, 128GB Storage) | 67W Turbo Charge | 120Hz Super AMOLED Display | Charger Included | Get 2 Months of YouTube Premium Free!",
+    "rating": "4.0 out of 5 stars",
+    "price": "17,999"
+  },
+  {
+    "id": 10,
+    "img": "https://m.media-amazon.com/images/I/81I6652dKDL._AC_UY218_.jpg",
+    "name": "Redmi Note 10T 5G (Mint Green, 4GB RAM, 64GB Storage) | Dual5G | 90Hz Adaptive Refresh Rate | MediaTek Dimensity 700 7nm Processor | 22.5W Charger Included",
+    "rating": "4.2 out of 5 stars",
+    "price": "14,499"
+  },
+  {
+    "id": 11,
+    "img": "https://m.media-amazon.com/images/I/91kAtEXPIeL._AC_UY218_.jpg",
+    "name": "Redmi 9 Activ (Coral Green, 4GB RAM, 64GB Storage)| Octa-core Helio G35 | 5000 mAh Battery",
+    "rating": "4.2 out of 5 stars",
+    "price": "8,099"
+  },
+  {
+    "id": 12,
+    "img": "https://m.media-amazon.com/images/I/81T4O-rEI+L._AC_UY218_.jpg",
+    "name": "Redmi 9A Sport (Carbon Black, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+    "rating": "4.2 out of 5 stars",
+    "price": "6,999"
+  },
+  {
+    "id": 13,
+    "img": "https://m.media-amazon.com/images/I/61qacJf-mbL._AC_UY218_.jpg",
+    "name": "JioFi Next 32 GB, 2 GB RAM, Blue Smartphone",
+    "rating": "3.5 out of 5 stars",
+    "price": "4,732"
+  },
+  {
+    "id": 14,
+    "img": "https://m.media-amazon.com/images/I/61ST4CMWEKL._AC_UY218_.jpg",
+    "name": "iQOO Z6 44W (Raven Black, 4GB RAM, 128GB Storage)",
+    "rating": "4.2 out of 5 stars",
+    "price": "13,999"
+  },
+  {
+    "id": 15,
+    "img": "https://m.media-amazon.com/images/I/81vkmw6NgxL._AC_UY218_.jpg",
+    "name": "realme narzo 50i Prime (Mint Green 3GB RAM+32GB Storage) Octa-core Processor | 5000 mAh Battery",
+    "rating": "3.4 out of 5 stars",
+    "price": "7,166"
+  }
+]

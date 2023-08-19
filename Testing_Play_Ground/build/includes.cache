@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Roshan Yadav\\arduino-1.8.19\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Roshan Yadav\\arduino-1.8.19\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Roshan Yadav\\Documents\\Arduino\\Testing_Play_Ground\\build\\sketch\\Testing_Play_Ground.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
